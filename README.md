@@ -60,10 +60,10 @@ Funcionalidades futuras
 ## ⚙️ Rodando o Projeto
 ```bash
 # Clone este repositório para a pasta anterior
-$ git clone https://github.com/WGS-94/Ignite-Feed-React-Fundamentals
+$ git clone https://github.com/WGS-94/Ignite-Feed-React-Typescript
 # ou use a opção de download.
-# Acesse a pasta Ignite-Feed-React-Fundamentals
-$ cd Ignite-Feed-React-Fundamentals
+# Acesse a pasta Ignite-Feed-React-Typescript
+$ cd Ignite-Feed-React-Typescript
 # Instale as dependências
 $ yarn install
 ou
