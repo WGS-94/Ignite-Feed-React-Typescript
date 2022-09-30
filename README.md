@@ -29,7 +29,7 @@ Funcionalidades futuras
 - Regitro de tarefas, comentários e likes
 - Atualizar os dados de um usuário
 - Deletar um comentário
-- etc...
+- etc....
 
 
 <!--https://www.figma.com/file/8n9339j7p3LTzWyZdVM9C3/ToDo-List-(Copy)?node-id=43%3A88 -->
