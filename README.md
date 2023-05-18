@@ -23,6 +23,7 @@
 ## 🚀 Sobre o Projeto
 Ignite Feed é um feed de notícias onde o usuário pode comentar e dar like em um ou mais posts
 
+<!-- 
 Funcionalidades futuras
 - Autenticação de usuários
 - Registro de usuários
@@ -30,7 +31,7 @@ Funcionalidades futuras
 - Atualizar os dados de um usuário
 - Deletar um comentário
 - etc....
-
+-->
 
 <!--https://www.figma.com/file/8n9339j7p3LTzWyZdVM9C3/ToDo-List-(Copy)?node-id=43%3A88 -->
 
